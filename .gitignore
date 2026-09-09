@@ -1,0 +1,5 @@
+config.php
+apikey.py
+_pycache_/
+*.pyc
+db/kits college.sql
