@@ -64,8 +64,6 @@ Hostel Management System/
 
 ├── admin/
 
-├── content/
-
 ├── data1/
 
 ├── db/
